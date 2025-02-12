@@ -36,6 +36,9 @@ def go(args):
 
     # save the dataset
     tmp_artifact_path = os.path.join(args.tmp_directory, args.output_artifact)
+    idx = input_dataset['longitude'].between(-74.25, -73.50) & \
+    input_dataset['latitude'].between(40.5, 41.2)
+    input_dataset = input_dataset[idx].copy()
     input_dataset.to_csv(tmp_artifact_path)
     logging.info(f"INFO: input dataset is saved to local tmp path {tmp_artifact_path}")
     
