@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/a18f29d480f742a391169ec5871a3549/artifacts
+end_time: 1738870777978
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a18f29d480f742a391169ec5871a3549
+run_name: mercurial-ox-650
+run_uuid: a18f29d480f742a391169ec5871a3549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738870164912
+status: 4
+tags: []
+user_id: zhijuanzhang

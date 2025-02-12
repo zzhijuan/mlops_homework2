@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/85f725b2dc554716bec6b6f0a87284fa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85f725b2dc554716bec6b6f0a87284fa
+run_name: melodic-ape-48
+run_uuid: 85f725b2dc554716bec6b6f0a87284fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738867418326
+status: 1
+tags: []
+user_id: zhijuanzhang

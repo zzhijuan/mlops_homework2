@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/61a815d08bec4583815f9913c9cacd67/artifacts
+end_time: 1738959896304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61a815d08bec4583815f9913c9cacd67
+run_name: luminous-yak-268
+run_uuid: 61a815d08bec4583815f9913c9cacd67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738959639767
+status: 4
+tags: []
+user_id: zhijuanzhang

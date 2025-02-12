@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/f56253114ad440aab88e2df2bf021a21/artifacts
+end_time: 1738870778528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f56253114ad440aab88e2df2bf021a21
+run_name: whimsical-stork-954
+run_uuid: f56253114ad440aab88e2df2bf021a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738870158367
+status: 4
+tags: []
+user_id: zhijuanzhang
