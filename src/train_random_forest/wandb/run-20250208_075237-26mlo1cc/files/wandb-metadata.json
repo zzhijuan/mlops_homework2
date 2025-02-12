@@ -1,0 +1,60 @@
+{
+    "os": "macOS-12.7.4-x86_64-i386-64bit",
+    "python": "3.9.21",
+    "heartbeatAt": "2025-02-08T13:52:37.694344",
+    "startedAt": "2025-02-08T13:52:37.179138",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--trainval_artifact",
+        "trainval_data.csv:latest",
+        "--val_size",
+        "0.2",
+        "--random_seed",
+        "42",
+        "--stratify_by",
+        "neighbourhood_group",
+        "--rf_config",
+        "/Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/outputs/2025-02-08/07-48-23/rf_config.json",
+        "--max_tfidf_features",
+        "5",
+        "--output_artifact",
+        "random_forest_export"
+    ],
+    "state": "running",
+    "program": "/Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/src/train_random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "src/train_random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/build-ml-pipeline-for-short-term-rental-prices.git",
+        "commit": "e98952f117bb6349e2c19dd88d0da7b1f657f26f"
+    },
+    "email": null,
+    "root": "/Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices",
+    "host": "zhijuans-Air.attlocal.net",
+    "username": "zhijuanzhang",
+    "executable": "/opt/anaconda3/envs/mlflow-837de205e738e6583ea6b96c17d5a1b6e731e75a/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2200,
+        "min": 2200,
+        "max": 2200
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2200,
+            "min": 2200,
+            "max": 2200
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 233.5667953491211,
+            "used": 20.13284683227539
+        }
+    },
+    "memory": {
+        "total": 8.0
+    }
+}

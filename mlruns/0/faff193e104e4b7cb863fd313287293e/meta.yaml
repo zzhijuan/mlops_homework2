@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/faff193e104e4b7cb863fd313287293e/artifacts
+end_time: 1738964087679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faff193e104e4b7cb863fd313287293e
+run_name: flawless-rook-877
+run_uuid: faff193e104e4b7cb863fd313287293e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738964062355
+status: 4
+tags: []
+user_id: zhijuanzhang

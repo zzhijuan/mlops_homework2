@@ -1,0 +1,43 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.10.16
+    cli_version: 0.16.0
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1738868153.501444
+    t:
+      1:
+      - 55
+      2:
+      - 55
+      3:
+      - 23
+      4: 3.10.16
+      5: 0.16.0
+      8:
+      - 5
+      13: darwin-x86_64
+tmp_directory:
+  desc: null
+  value: /Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/src/basic_cleaning/tmp
+input_artifact:
+  desc: null
+  value: sample.csv:latest
+output_artifact:
+  desc: null
+  value: clean_sample.csv
+output_type:
+  desc: null
+  value: clean data
+output_description:
+  desc: null
+  value: dataset is cleaned by removing outliers and nulls
+min_price:
+  desc: null
+  value: 10.0
+max_price:
+  desc: null
+  value: 350.0

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/427c45ea1406458391ff570307c98d98/artifacts
+end_time: 1739218223062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 427c45ea1406458391ff570307c98d98
+run_name: abundant-duck-491
+run_uuid: 427c45ea1406458391ff570307c98d98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739218179035
+status: 3
+tags: []
+user_id: zhijuanzhang

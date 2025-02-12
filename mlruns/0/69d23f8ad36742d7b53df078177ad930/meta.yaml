@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/69d23f8ad36742d7b53df078177ad930/artifacts
+end_time: 1738873245033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69d23f8ad36742d7b53df078177ad930
+run_name: treasured-grouse-97
+run_uuid: 69d23f8ad36742d7b53df078177ad930
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738872946367
+status: 3
+tags: []
+user_id: zhijuanzhang

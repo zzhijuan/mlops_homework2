@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/40293d8db56b463f9b2879b466fce849/artifacts
+end_time: 1738868198749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40293d8db56b463f9b2879b466fce849
+run_name: luxuriant-koi-279
+run_uuid: 40293d8db56b463f9b2879b466fce849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738868180904
+status: 4
+tags: []
+user_id: zhijuanzhang

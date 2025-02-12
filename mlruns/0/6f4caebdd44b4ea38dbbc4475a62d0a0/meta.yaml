@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/6f4caebdd44b4ea38dbbc4475a62d0a0/artifacts
+end_time: 1739218178784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f4caebdd44b4ea38dbbc4475a62d0a0
+run_name: dapper-vole-557
+run_uuid: 6f4caebdd44b4ea38dbbc4475a62d0a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739218124830
+status: 3
+tags: []
+user_id: zhijuanzhang

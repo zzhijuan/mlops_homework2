@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/bfc96f5c26b3487ba990db6a38c37397/artifacts
+end_time: 1738867940037
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfc96f5c26b3487ba990db6a38c37397
+run_name: charming-flea-400
+run_uuid: bfc96f5c26b3487ba990db6a38c37397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738867918805
+status: 4
+tags: []
+user_id: zhijuanzhang

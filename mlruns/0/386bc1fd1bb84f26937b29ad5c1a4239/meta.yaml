@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zhijuanzhang/Documents/UdacityCourse/Homework2/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/386bc1fd1bb84f26937b29ad5c1a4239/artifacts
+end_time: 1738972889479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 386bc1fd1bb84f26937b29ad5c1a4239
+run_name: overjoyed-snail-773
+run_uuid: 386bc1fd1bb84f26937b29ad5c1a4239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738972726358
+status: 4
+tags: []
+user_id: zhijuanzhang
